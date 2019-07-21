@@ -1,0 +1,6 @@
+(setq lst '(1 2 3 4 5 6))
+(loop
+(when (eq (first lst) 6)(return))
+(print 'Hello)
+(setq lst (rest lst))
+)
