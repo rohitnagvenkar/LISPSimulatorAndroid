@@ -21,7 +21,8 @@ As you can see, the above code has been successfully generated.
 
 ![Alt Text](https://github.com/rohitnagvenkar/LISPSimulatorAndroid/raw/master/readmeData/generated_output.JPG)
 
-4. Main Screen
+4. Added Functionalities such as options to allow users to change font settings, lookup LISP documentation,
+save the code, open lisp code)
 
 ![Alt Text](https://github.com/rohitnagvenkar/LISPSimulatorAndroid/raw/master/readmeData/addedFunctionality.JPG)
 
